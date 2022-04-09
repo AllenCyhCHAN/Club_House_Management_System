@@ -1,0 +1,4 @@
+facilityID,facilityName,rent,openTime,closeTime,descriptions,status
+0,LC,0,0,0,Damn,true
+1,LG7,10,4,22,daw,false
+2,Karen Lee,3000000,5,0,ISOM so tired,false
